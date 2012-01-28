@@ -4,7 +4,7 @@
 ### Note
 
 If you need to process multiple markup languages, you should use Brian Clapper's [SBT-LWN](http://software.clapper.org/sbt-lwm/)
-If Pegdown's capabilities are enough for you, and you like to minimize the number of dependencies, then this plugin might be of interest.
+If Pegdown's capabilities are enough for you, and you like to minimize the number of dependencies of your projects, then this plugin might be of interest.
 
 ### Installation
 

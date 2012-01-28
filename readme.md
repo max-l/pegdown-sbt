@@ -1,4 +1,3 @@
-
 ## An SBT plugin to invoke the Pegdown processor via a build definition.
 
 ```scala
@@ -35,3 +34,7 @@ PegDown.pegDownMappings in Compile <<= (sourceDirectory in Compile, resourceMana
 
 It is of course meant to be overridable, see : http://github.com/harrah/xsbt/wiki/Mapping-Files
 for more info on how to define `Seq[(File,File)]` mappings.
+
+## Credits
+
+Of course, 99.999 % of the credit goes to Mathias, as this plugin is simply a wrapper of PegDown : https://github.com/sirthias

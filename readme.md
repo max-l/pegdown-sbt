@@ -1,5 +1,11 @@
 ## An SBT plugin to invoke the Pegdown processor via a build definition.
 
+
+### Note
+
+If you need to process multiple markup languages, you should use Brian Clapper's [SBT-LWN](http://software.clapper.org/sbt-lwm/)
+If Pegdown's capabilities are enough for you, and you like to minimize the number of dependencies, then this plugin might be of interest.
+
 ### Installation
 
 The plugin is only available via source dependeny, see : https://github.com/harrah/xsbt/wiki/Plugins

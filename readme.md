@@ -61,3 +61,7 @@ for more info on how to define `Seq[(File,File)]` mappings.
 ### Credits
 
 Of course, 99.999 % of the credit goes to Mathias, as this plugin is simply a wrapper of PegDown : https://github.com/sirthias
+
+### License
+
+This plugin is license under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0)
